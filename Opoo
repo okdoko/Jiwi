@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+	<style>
+	
+		#shee{
+			
+			color:gainsboro;
+			padding: 10px;
+			font-size: 18px;
+			cursor: pointer;
+		}
+		.gg{
+			object-fit: contain
+			padding: 10px;
+			position: relative;top: 13px;
+			margin-left: 7px;
+			border-radius: 30px;
+			
+			
+				
+		}
+	
+	
+		#de{
+			color: white;
+			padding: 10px;
+			margin-left: 90px;
+			margin-top: -32px;
+			font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+			
+			
+		}
+		
+		.ff{
+			background-color:deepskyblue;
+			color: white;
+			margin-left: 1400px;
+			border-radius: 20px;
+			position: relative;top: -53px;
+			font-size: 16px;
+			cursor: pointer;
+			
+		}
+		.ee{
+			width: 1500px;
+			height: 500px;
+			background-image: url(fposter\,large\,wall_texture\,product\,750x1000.webp);
+			background-position: right;
+			background-size: contain;
+			background-color:rgb(186, 229, 246);
+			background-repeat: no-repeat;
+			position: relative;
+			top: -37px;
+		}
+	
+		
+	</style>
+	
+	
+	
+	
+	
+	
+	
+<meta charset="utf-8">
+<title>Jiwi</title>
+</head>
+
+<body bgcolor="black" >
+	
+
+<buttton  id="shee"   >&#9776;</buttton>
+ <img  alt="logo"   src="../ca12a51dbae493091a69acab075f27201e77d48ac865d571190faf15ca05dd66.jpg"   width="40px"   height="40px"   class="gg"  >
+	<h3 id="de"  >   Jiwi </h3>
+	
+	<button class="ff"  > Join now  </button>
+	<button style="background-color:palevioletred;color: white;float: right;margin-right: 160px;position: relative;top: -78px;border-radius: 20px;font-size: 16px;cursor: pointer;"  >Sign up</button>
+	<div class="ee">
+
+      <img  style="object-fit: contain;float: right;margin-right: 35px;"  src="po.jpg"  width="400px" height="500px">
+      <img style="object-fit: contain;float: right;margin-right: 35px;margin-right: -94px;"  src="movie alternative minimalist poster _ because this is my first life.jpg"  width="400px" height="500px">
+
+
+
+	</div>
+     
+<h3 style="color: white;padding: 10px;margin-left: 180px;line-height: 30px;position: relative;top: -500px;font-size: 20px;"> <span style="letter-spacing: 4px;font-weight: bolder;"  > <em>  Because</em> </span> <br> <span style="letter-spacing: 4px;margin-left: 17px;"  > <em>  This is</em></span><br> <span style="letter-spacing: 4px;margin-left: -17px;" ><em>My first life</em> </span></h3>
+
+
+	
+	
+</body>
+</html>
